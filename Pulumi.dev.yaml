@@ -1,4 +1,4 @@
 config:
-  azure-native:location: West US
+  azure-native:location: WestUS
 environment:
   - shared/azure-dev
